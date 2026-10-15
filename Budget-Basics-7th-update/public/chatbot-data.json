@@ -1,0 +1,130 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "hey",
+      "walaikumassalam",
+      "assalamualaikum",
+      "a-o-a"
+    ],
+    "reply": "Hello! I am the Budget Assistant. Ask me about needs, wants, saving, or budgeting rules."
+  },
+  {
+    "keys": [
+      "how are you",
+      "how do you do",
+      "kaise ho"
+    ],
+    "reply": "I am doing well, thank you for asking. How can I help you with budgeting today?"
+  },
+  {
+    "keys": [
+      "who are you",
+      "what are you"
+    ],
+    "reply": "I am the Budget Assistant for BudgetBasics. I help students understand basic budgeting concepts."
+  },
+  {
+    "keys": [
+      "your name",
+      "what is your name",
+      "naam kya hai"
+    ],
+    "reply": "You can call me Budget Assistant. I am here to answer your basic budgeting questions."
+  },
+  {
+    "keys": [
+      "thank",
+      "thanks",
+      "thank you",
+      "shukriya"
+    ],
+    "reply": "You are welcome. Feel free to ask if you have more questions about budgeting."
+  },
+  {
+    "keys": [
+      "bye",
+      "goodbye",
+      "see you",
+      "khuda hafiz"
+    ],
+    "reply": "Goodbye. Come back anytime you need help with your budget."
+  },
+  {
+    "keys": [
+      "help"
+    ],
+    "reply": "I can help with questions about needs, wants, saving, budgeting rules, goals, income, expenses, and overspending."
+  },
+  {
+    "keys": [
+      "need",
+      "needs"
+    ],
+    "reply": "A need is something essential, like food, rent, transport, books, or utilities."
+  },
+  {
+    "keys": [
+      "want",
+      "wants"
+    ],
+    "reply": "A want is something optional, like snacks, games, streaming, or fashion."
+  },
+  {
+    "keys": [
+      "save",
+      "saving",
+      "savings"
+    ],
+    "reply": "Try to save at least 20 percent of your income each month."
+  },
+  {
+    "keys": [
+      "50-30-20",
+      "503020"
+    ],
+    "reply": "The 50-30-20 rule: 50 percent needs, 30 percent wants, 20 percent savings."
+  },
+  {
+    "keys": [
+      "budget",
+      "budgeting"
+    ],
+    "reply": "Budgeting means planning how you spend. Start with your income, then split it into needs, wants, and savings."
+  },
+  {
+    "keys": [
+      "overspend",
+      "impulse"
+    ],
+    "reply": "To avoid overspending, set a monthly limit and wait 24 hours before any non-essential purchase."
+  },
+  {
+    "keys": [
+      "goal",
+      "goals"
+    ],
+    "reply": "Set a clear savings goal. If you save 5000 per month for 50000, you will finish in 10 months."
+  },
+  {
+    "keys": [
+      "subscription",
+      "subscriptions"
+    ],
+    "reply": "Check your subscriptions every month. Cancel the ones you no longer use."
+  },
+  {
+    "keys": [
+      "income"
+    ],
+    "reply": "Income is money you receive, like allowance, scholarship, or part-time earnings."
+  },
+  {
+    "keys": [
+      "expense",
+      "expenses"
+    ],
+    "reply": "Expenses are what you spend. Track them to see where your money goes."
+  }
+]
